@@ -6,7 +6,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 >
 	<channel>
-		<atom:link href="https://webfile.iastate.edu/?path=/afs/iastate.edu/users/21/29/ekmoody/making_waves_rss.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://github.com/ekmoody/makingwavesrss/blob/master/making_waves_rss.xml" rel="self" type="application/rss+xml"/>
 		<title>
 			SFS Making Waves
 		</title>
