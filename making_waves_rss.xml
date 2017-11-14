@@ -1,0 +1,65 @@
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+>
+	<channel>
+		<atom:link href="https://webfile.iastate.edu/?path=/afs/iastate.edu/users/21/29/ekmoody/making_waves_rss.xml" rel="self" type="application/rss+xml"/>
+		<title>
+			SFS Making Waves
+		</title>
+		<link>
+			https://www.freshwater-science.org/Education-and-Outreach/Media/Podcast.cfm
+		</link>
+		<description>
+			A podcast from the Society for Freshwater Science
+		</description>
+
+		<language>en-us</language>
+		<webMaster>erickmoody@gmail.com</webMaster>
+		<itunes:author> Stephen Elser, Julie Kelso, Erin Larson, Eric Moody </itunes:author>
+		
+		<itunes:subtitle>
+			A podcast from the Society for Freshwater Science…
+		</itunes:subtitle>
+		<copyright>Copyright 2017</copyright>
+		<lastBuildDate>Tue, 14 Nov 2017 14:20:00 -0700</lastBuildDate>
+		<pubDate>Tue, 14 Nov 2017 14:20:00 -0700</pubDate>
+		
+		<image>
+		<title>SFS Making Waves</title>
+		<url>http://i.imgur.com/UswzUCU.png</url>
+		</image>
+		
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		
+		<itunes:owner>
+			<itunes:name>Making Waves</itunes:name>
+			<itunes:email>erickmoody@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:category text="Science &amp; Medicine"/>
+		<itunes:keywords>stream, river, lake, wetland, fish, ecology, nature</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+		
+	<item>
+      <guid isPermaLink="false">https://www.freshwater-science.org/Education-and-Outreach/Media/Podcast/MW1---David-Penrose.cfm</guid>
+      <title>Ep. 1: Dave Penrose, SFS President</title>
+      <pubDate>Wed, 20 Feb 2013 12:00:00 +0000</pubDate>
+      <link>https://www.freshwater-science.org/Education-and-Outreach/Media/Podcast/MW1---David-Penrose.cfm</link>
+      <itunes:duration>00:13:39</itunes:duration>
+      <itunes:author>Making Waves</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>SFS President Dave Penrose discusses the importance of freshwater science.
+	  </itunes:summary>
+      <itunes:subtitle>Guest: Dave Penrose</itunes:subtitle>
+      <description>SFS President Dave Penrose discusses the importance of freshwater science.
+	  </description>
+      <enclosure type="audio/mpeg" url="https://www.freshwater-science.org/Education-and-Outreach/Media/Podcast/podcast-media/EP1_Penrose_High.mp3" length ="6559166"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	
+</channel>
+</rss>
