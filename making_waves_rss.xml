@@ -30,7 +30,7 @@
 		
 		<image>
 		<title>SFS Making Waves</title>
-		<url>http://i.imgur.com/UswzUCU.png</url>
+		<url>https://pbs.twimg.com/media/DN9vAe5UIAAR0OP.jpg</url>
 		</image>
 		
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
@@ -42,7 +42,7 @@
 		<itunes:category text="Science &amp; Medicine"/>
 		<itunes:keywords>stream, river, lake, wetland, fish, ecology, nature</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+		<itunes:image href="https://pbs.twimg.com/media/DN9vAe5UIAAR0OP.jpg"/>
 		
 	<item>
       <guid isPermaLink="false">https://www.freshwater-science.org/Education-and-Outreach/Media/Podcast/MW1---David-Penrose.cfm</guid>
@@ -58,7 +58,7 @@
       <description>SFS President Dave Penrose discusses the importance of freshwater science.
 	  </description>
       <enclosure type="audio/mpeg" url="https://www.freshwater-science.org/Education-and-Outreach/Media/Podcast/podcast-media/EP1_Penrose_High.mp3" length ="6559166"/>
-      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+      <itunes:image href="https://www.freshwater-science.org/Education-and-Outreach/images/edc_media_podcast_penrose.jpg"/> 
     </item>
 	
 </channel>
